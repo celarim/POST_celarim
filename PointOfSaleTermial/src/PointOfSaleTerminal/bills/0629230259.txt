@@ -1,0 +1,4 @@
+jean ab123 levi's 40000 32000 1
+hoodie cd121 adidas 20000 20000 1
+sneaker av123 nike 30000 30000 1
+0
